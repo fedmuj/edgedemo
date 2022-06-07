@@ -1,0 +1,15 @@
+{
+  "templates": [],
+  "placeholders": [
+    {
+      "name": "jss-main"
+    }
+  ],
+  "appName": "demo-edge-oc-jss",
+  "language": "en",
+  "renderings": [],
+  "wipeExisting": false,
+  "rootPlaceholders": [
+    "jss-main"
+  ]
+}
